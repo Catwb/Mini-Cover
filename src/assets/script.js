@@ -13,7 +13,7 @@ export const state = {
     watermark: "@梦爱吃鱼",
     textSize: 200,
     squareSize: 300,
-    text: '梦爱吃鱼',
+    text: '绮曜',
     bgBlur: 3,
     iconBackground: false,
     iconBorder: false,
